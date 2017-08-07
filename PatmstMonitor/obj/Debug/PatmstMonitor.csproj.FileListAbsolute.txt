@@ -1,0 +1,11 @@
+c:\users\genius\documents\visual studio 2017\Projects\PatmstMonitor\PatmstMonitor\bin\Debug\PatmstMonitor.exe.config
+c:\users\genius\documents\visual studio 2017\Projects\PatmstMonitor\PatmstMonitor\bin\Debug\PatmstMonitor.exe
+c:\users\genius\documents\visual studio 2017\Projects\PatmstMonitor\PatmstMonitor\bin\Debug\PatmstMonitor.pdb
+c:\users\genius\documents\visual studio 2017\Projects\PatmstMonitor\PatmstMonitor\obj\Debug\PatmstMonitor.csprojResolveAssemblyReference.cache
+c:\users\genius\documents\visual studio 2017\Projects\PatmstMonitor\PatmstMonitor\obj\Debug\PatmstMonitor.Form1.resources
+c:\users\genius\documents\visual studio 2017\Projects\PatmstMonitor\PatmstMonitor\obj\Debug\PatmstMonitor.Properties.Resources.resources
+c:\users\genius\documents\visual studio 2017\Projects\PatmstMonitor\PatmstMonitor\obj\Debug\PatmstMonitor.csproj.GenerateResource.Cache
+c:\users\genius\documents\visual studio 2017\Projects\PatmstMonitor\PatmstMonitor\obj\Debug\PatmstMonitor.exe
+c:\users\genius\documents\visual studio 2017\Projects\PatmstMonitor\PatmstMonitor\obj\Debug\PatmstMonitor.pdb
+C:\Users\Genius\documents\visual studio 2017\Projects\PatmstMonitor\PatmstMonitor\bin\Debug\MySql.Data.dll
+C:\Users\Genius\documents\visual studio 2017\Projects\PatmstMonitor\PatmstMonitor\bin\Debug\MySql.Data.xml
